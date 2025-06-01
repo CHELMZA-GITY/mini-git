@@ -3,4 +3,4 @@ project(mini_git C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(mini_git main.c)
+add_executable(mini_git src/main.c)
